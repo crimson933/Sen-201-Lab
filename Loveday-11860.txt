@@ -1,0 +1,5 @@
+What is Software Engineering
+
+Software engineering is the systematic process of designing, developing, testing, and maintaining software applications. It applies engineering principles to software creation, ensuring that the final product is reliable, efficient, and meets user needs. Unlike simple programming, software engineering focuses on building large and complex systems in an organized and controlled manner.
+
+The main goal of software engineering is to produce high-quality software that is cost-effective, delivered on time, and easy to maintain. It involves several stages known as the software development life cycle (SDLC) — including requirements analysis, design, implementation, testing, deployment, and maintenance. Each stage helps ensure that the software functions properly and adapts to future changes.
